@@ -26,7 +26,7 @@ class App extends React.Component {
           title: "Стол",
           img: "image copy.png",
           desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
-          category: "chairs",
+          category: "tables",
           price: "149.00",
         },
         {
@@ -34,7 +34,7 @@ class App extends React.Component {
           title: "Диван",
           img: "image copy 2.png",
           desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
-          category: "chairs",
+          category: "sofa",
           price: "549.99",
         },
         {
@@ -42,7 +42,7 @@ class App extends React.Component {
           title: "Лампа",
           img: "image copy 3.png",
           desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
-          category: "chairs",
+          category: "light",
           price: "25.00",
         },
         {
